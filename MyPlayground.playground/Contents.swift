@@ -1,5 +1,5 @@
 import UIKit
-
+//October 10th, 2019
 // Question One
 
 // Write a function named double(_:) that takes in a Double and returns that number times two
